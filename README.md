@@ -68,11 +68,11 @@ Some basic assignment functions have been included in the file:
 assignment.py
 
 Criteria:
-* The program should have a title screen
-* The program should have the option to show instructions or provide help
-* The program should repeat when completed unless the user chooses to quit
-* The program should provide clear options for available commands when required
-* Each function should be documented
+* The program should have a title screen                                               ok
+* The program should have the option to show instructions or provide help              ok
+* The program should repeat when completed unless the user chooses to quit             ok
+* The program should provide clear options for available commands when required        ok
+* Each function should be documented                                                   ok
 * There should be some external documentation included about what the program does and how it works. (Like a user manual)
 * Your documentation may be a text file, or may be created in word and drag/dropped into your Github folder
 * The function for each shape (to determine volume) should not have any inputs or print statements. It is JUST for calculations
