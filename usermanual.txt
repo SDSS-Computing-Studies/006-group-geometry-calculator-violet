@@ -1,0 +1,4 @@
+Welcom to User manual
+My calculator provide 5 calculation, sphere, cylinder, traiangle and rectangle prism, and cone.
+Once you are asked to answer shape, available order command is 'Sphere', 'Cylinder', 'Triangle prism', 'Rectangular prism', and 'Cone'
+If you want to quit this program, type 'Quit', when you are asked to answer shape
